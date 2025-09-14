@@ -2,7 +2,7 @@
 Employee retention project for Salifort Motors , including executive summary, project lab notebook, and dataset.
 # Salifort Motors Employee Retention Project
 
-This repository contains materials for the **Salifort Motors project (Course 7)**, including the executive summary presentation, project lab notebook, and dataset.
+This repository contains materials for the **Salifort Motors project **, including the executive summary presentation, project lab notebook, and dataset.
 
 ## Contents
 
